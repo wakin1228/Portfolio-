@@ -114,6 +114,7 @@
       <h3>Nature Photography Gallery</h3>
       <p>A photo gallery that displays some of my favorite nature shots. This project shows my love for nature and photography in a simple and organized layout that looks good on both phones and computers.</p>
       <img src="Nature.jpg" alt="Nature Photography">
+      <img src="Sea.jpg" alt="Nature Photography">
     </div>
   </section>
 
