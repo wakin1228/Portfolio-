@@ -90,13 +90,13 @@
 
   <header>
     <h1>Airah Nicolei delos Reyes</h1>
-    <img src="Avatar_.jpg" alt="Airah Nicolei delos Reyes" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin: 10px 0;">
+    <img src="avatar.jpg" alt="Airah Nicolei delos Reyes" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin: 10px 0;">
     <p>BS Entrepreneurship Student | Baker | Nature Lover | Artist</p>
 </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <img src="avatar.jpg" alt="Airah Nicolei delos Reyes">
+    <img src="Avatar_.jpg" alt="Airah Nicolei delos Reyes">
     <p>Hello! I’m Airah Nicolei delos Reyes, a first-year BS Entrepreneurship student at Mariano Marcos State University. I’m passionate about learning how to start and manage businesses, and I enjoy taking risks when it comes to exploring new opportunities. I have a strong interest in baking, nature photography, and creating art, which I often combine with my business ideas. I’m a creative and curious individual who loves turning small ideas into meaningful projects. Whether it’s designing a product, capturing nature’s beauty through my camera, or experimenting with new recipes, I always bring enthusiasm and attention to detail. My goal is to keep growing as an entrepreneur while doing the things I love.</p>
   </section>
 
