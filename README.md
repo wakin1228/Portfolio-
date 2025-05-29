@@ -6,68 +6,53 @@
   <title>Airah Nicolei delos Reyes - Portfolio</title>
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color:#BCAAA4; /* warm minimal background */
-      color: #2e2e2e;
-    }
+  font-family: 'Open Sans', sans-serif; /* Consider a more modern font */
+  margin: 0;
+  background-color: #f8f8f8;
+  color: #333;
+  line-height: 1.6;
+}
 
-    header {
-      background-color: #E0E0E0;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 2px solid #eaeaea;
-    }
+header {
+  padding: 20px 0;
+  text-align: center;
+}
 
-    h1 {
-      margin: 0;
-      font-size: 2em;
-      color: #333333;
-    }
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
 
-    h2 {
-      color: #444;
-    }
+section {
+  padding: 40px;
+  margin: 30px auto;
+  max-width: 960px;
+}
 
-    section {
-      padding: 20px;
-      background-color: #ffffff;
-      margin: 20px auto;
-      max-width: 900px;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-    }
+h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  color: #222;
+}
 
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-      display: block;
-      margin: 0 auto 15px;
-    }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+}
 
-    .project {
-      margin-bottom: 30px;
-    }
+footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #eee;
+  font-size: 0.9em;
+}
 
-    .project img {
-      max-width: 300px;
-      border: 1px solid #ddd;
-      background-color: #f8f8f8;
-    }
+a {
+  color: #007bff;
+}
 
-    footer {
-      text-align: center;
-      padding: 15px;
-      background-color: #fafafa;
-      font-size: 0.9em;
-      color: #777;
-      border-top: 1px solid #eee;
-    }
-
-    a {
-      color: #3083dc;
       text-decoration: none;
     }
 
