@@ -9,12 +9,12 @@
       font-family: 'Segoe UI', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #fdfcfb; /* warm minimal background */
+      background-color:#BCAAA4; /* warm minimal background */
       color: #2e2e2e;
     }
 
     header {
-      background-color: #ffffff;
+      background-color: #E0E0E0;
       padding: 20px;
       text-align: center;
       border-bottom: 2px solid #eaeaea;
@@ -90,8 +90,9 @@
 
   <header>
     <h1>Airah Nicolei delos Reyes</h1>
+    <img src="Avatar_.jpg" alt="Airah Nicolei delos Reyes" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin: 10px 0;">
     <p>BS Entrepreneurship Student | Baker | Nature Lover | Artist</p>
-  </header>
+</header>
 
   <section id="about">
     <h2>About Me</h2>
